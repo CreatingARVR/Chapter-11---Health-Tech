@@ -1,0 +1,1265 @@
+fileFormatVersion: 2
+guid: a123683f28683443c9605bef28a2415b
+timeCreated: 1521055236
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: chain_LP_
+    100002: chain_LP_2
+    100004: chain_LP_3
+    100006: chain_LP_4
+    100008: chainDuo_LP
+    100010: chainDuo_LP 1
+    100012: chainDuo_LP 2
+    100014: chainDuo_LP 3
+    100016: chainDuo_LP1
+    100018: chainDuo_LP1 1
+    100020: chainDuo_LP1 2
+    100022: chainDuo_LP1 3
+    100024: chainDuo_LP10
+    100026: chainDuo_LP10 1
+    100028: chainDuo_LP10 2
+    100030: chainDuo_LP10 3
+    100032: chainDuo_LP11
+    100034: chainDuo_LP11 1
+    100036: chainDuo_LP11 2
+    100038: chainDuo_LP11 3
+    100040: chainDuo_LP12
+    100042: chainDuo_LP12 1
+    100044: chainDuo_LP12 2
+    100046: chainDuo_LP12 3
+    100048: chainDuo_LP13
+    100050: chainDuo_LP13 1
+    100052: chainDuo_LP13 2
+    100054: chainDuo_LP13 3
+    100056: chainDuo_LP14
+    100058: chainDuo_LP14 1
+    100060: chainDuo_LP14 2
+    100062: chainDuo_LP14 3
+    100064: chainDuo_LP15
+    100066: chainDuo_LP15 1
+    100068: chainDuo_LP15 2
+    100070: chainDuo_LP15 3
+    100072: chainDuo_LP2
+    100074: chainDuo_LP2 1
+    100076: chainDuo_LP2 2
+    100078: chainDuo_LP2 3
+    100080: chainDuo_LP3
+    100082: chainDuo_LP3 1
+    100084: chainDuo_LP3 2
+    100086: chainDuo_LP3 3
+    100088: chainDuo_LP4
+    100090: chainDuo_LP4 1
+    100092: chainDuo_LP4 2
+    100094: chainDuo_LP4 3
+    100096: chainDuo_LP5
+    100098: chainDuo_LP5 1
+    100100: chainDuo_LP5 2
+    100102: chainDuo_LP5 3
+    100104: chainDuo_LP6
+    100106: chainDuo_LP6 1
+    100108: chainDuo_LP6 2
+    100110: chainDuo_LP6 3
+    100112: chainDuo_LP7
+    100114: chainDuo_LP7 1
+    100116: chainDuo_LP7 2
+    100118: chainDuo_LP7 3
+    100120: chainDuo_LP8
+    100122: chainDuo_LP8 1
+    100124: chainDuo_LP8 2
+    100126: chainDuo_LP8 3
+    100128: chainDuo_LP9
+    100130: chainDuo_LP9 1
+    100132: chainDuo_LP9 2
+    100134: chainDuo_LP9 3
+    100136: glassShard1:pCube1
+    100138: glassShard2:pCube1
+    100140: glassShard3:pCube1
+    100142: glassShards
+    100144: glassShards1
+    100146: glassShards2
+    100148: handle1
+    100150: handle2
+    100152: handle3
+    100154: handle4
+    100156: nurbsToPoly1
+    100158: nurbsToPoly1 1
+    100160: nurbsToPoly1 2
+    100162: nurbsToPoly10
+    100164: nurbsToPoly10 1
+    100166: nurbsToPoly10 2
+    100168: nurbsToPoly11
+    100170: nurbsToPoly11 1
+    100172: nurbsToPoly11 2
+    100174: nurbsToPoly12
+    100176: nurbsToPoly12 1
+    100178: nurbsToPoly12 2
+    100180: nurbsToPoly2
+    100182: nurbsToPoly2 1
+    100184: nurbsToPoly2 2
+    100186: nurbsToPoly3
+    100188: nurbsToPoly3 1
+    100190: nurbsToPoly3 2
+    100192: nurbsToPoly4
+    100194: nurbsToPoly4 1
+    100196: nurbsToPoly4 2
+    100198: nurbsToPoly5
+    100200: nurbsToPoly5 1
+    100202: nurbsToPoly5 2
+    100204: nurbsToPoly6
+    100206: nurbsToPoly6 1
+    100208: nurbsToPoly6 2
+    100210: nurbsToPoly7
+    100212: nurbsToPoly7 1
+    100214: nurbsToPoly7 2
+    100216: nurbsToPoly8
+    100218: nurbsToPoly8 1
+    100220: nurbsToPoly8 2
+    100222: nurbsToPoly9
+    100224: nurbsToPoly9 1
+    100226: nurbsToPoly9 2
+    100228: pCube1
+    100230: pCube1 1
+    100232: pCube1 2
+    100234: pCube10
+    100236: pCube10 1
+    100238: pCube11
+    100240: pCube11 1
+    100242: pCube12
+    100244: pCube12 1
+    100246: pCube2
+    100248: pCube2 1
+    100250: pCube2 2
+    100252: pCube3
+    100254: pCube3 1
+    100256: pCube3 2
+    100258: pCube4
+    100260: pCube4 1
+    100262: pCube4 2
+    100264: pCube5
+    100266: pCube5 1
+    100268: pCube5 2
+    100270: pCube6
+    100272: pCube6 1
+    100274: pCube6 2
+    100276: pCube7
+    100278: pCube7 1
+    100280: pCube7 2
+    100282: pCube8
+    100284: pCube8 1
+    100286: pCube8 2
+    100288: pCube9
+    100290: pCube9 1
+    100292: pCube9 2
+    100294: platform
+    100296: pTorus32
+    100298: pTorus32 1
+    100300: pTorus32 10
+    100302: pTorus32 11
+    100304: pTorus32 12
+    100306: pTorus32 13
+    100308: pTorus32 14
+    100310: pTorus32 15
+    100312: pTorus32 16
+    100314: pTorus32 17
+    100316: pTorus32 18
+    100318: pTorus32 19
+    100320: pTorus32 2
+    100322: pTorus32 20
+    100324: pTorus32 21
+    100326: pTorus32 22
+    100328: pTorus32 23
+    100330: pTorus32 24
+    100332: pTorus32 25
+    100334: pTorus32 26
+    100336: pTorus32 27
+    100338: pTorus32 28
+    100340: pTorus32 29
+    100342: pTorus32 3
+    100344: pTorus32 30
+    100346: pTorus32 31
+    100348: pTorus32 32
+    100350: pTorus32 33
+    100352: pTorus32 34
+    100354: pTorus32 35
+    100356: pTorus32 36
+    100358: pTorus32 37
+    100360: pTorus32 38
+    100362: pTorus32 39
+    100364: pTorus32 4
+    100366: pTorus32 40
+    100368: pTorus32 41
+    100370: pTorus32 42
+    100372: pTorus32 43
+    100374: pTorus32 44
+    100376: pTorus32 45
+    100378: pTorus32 46
+    100380: pTorus32 47
+    100382: pTorus32 48
+    100384: pTorus32 49
+    100386: pTorus32 5
+    100388: pTorus32 50
+    100390: pTorus32 51
+    100392: pTorus32 52
+    100394: pTorus32 53
+    100396: pTorus32 54
+    100398: pTorus32 55
+    100400: pTorus32 56
+    100402: pTorus32 57
+    100404: pTorus32 58
+    100406: pTorus32 59
+    100408: pTorus32 6
+    100410: pTorus32 60
+    100412: pTorus32 61
+    100414: pTorus32 62
+    100416: pTorus32 63
+    100418: pTorus32 7
+    100420: pTorus32 8
+    100422: pTorus32 9
+    100424: pTorus33
+    100426: pTorus33 1
+    100428: pTorus33 10
+    100430: pTorus33 11
+    100432: pTorus33 12
+    100434: pTorus33 13
+    100436: pTorus33 14
+    100438: pTorus33 15
+    100440: pTorus33 16
+    100442: pTorus33 17
+    100444: pTorus33 18
+    100446: pTorus33 19
+    100448: pTorus33 2
+    100450: pTorus33 20
+    100452: pTorus33 21
+    100454: pTorus33 22
+    100456: pTorus33 23
+    100458: pTorus33 24
+    100460: pTorus33 25
+    100462: pTorus33 26
+    100464: pTorus33 27
+    100466: pTorus33 28
+    100468: pTorus33 29
+    100470: pTorus33 3
+    100472: pTorus33 30
+    100474: pTorus33 31
+    100476: pTorus33 32
+    100478: pTorus33 33
+    100480: pTorus33 34
+    100482: pTorus33 35
+    100484: pTorus33 36
+    100486: pTorus33 37
+    100488: pTorus33 38
+    100490: pTorus33 39
+    100492: pTorus33 4
+    100494: pTorus33 40
+    100496: pTorus33 41
+    100498: pTorus33 42
+    100500: pTorus33 43
+    100502: pTorus33 44
+    100504: pTorus33 45
+    100506: pTorus33 46
+    100508: pTorus33 47
+    100510: pTorus33 48
+    100512: pTorus33 49
+    100514: pTorus33 5
+    100516: pTorus33 50
+    100518: pTorus33 51
+    100520: pTorus33 52
+    100522: pTorus33 53
+    100524: pTorus33 54
+    100526: pTorus33 55
+    100528: pTorus33 56
+    100530: pTorus33 57
+    100532: pTorus33 58
+    100534: pTorus33 59
+    100536: pTorus33 6
+    100538: pTorus33 60
+    100540: pTorus33 61
+    100542: pTorus33 62
+    100544: pTorus33 63
+    100546: pTorus33 7
+    100548: pTorus33 8
+    100550: pTorus33 9
+    100552: //RootNode
+    400000: chain_LP_
+    400002: chain_LP_2
+    400004: chain_LP_3
+    400006: chain_LP_4
+    400008: chainDuo_LP
+    400010: chainDuo_LP 1
+    400012: chainDuo_LP 2
+    400014: chainDuo_LP 3
+    400016: chainDuo_LP1
+    400018: chainDuo_LP1 1
+    400020: chainDuo_LP1 2
+    400022: chainDuo_LP1 3
+    400024: chainDuo_LP10
+    400026: chainDuo_LP10 1
+    400028: chainDuo_LP10 2
+    400030: chainDuo_LP10 3
+    400032: chainDuo_LP11
+    400034: chainDuo_LP11 1
+    400036: chainDuo_LP11 2
+    400038: chainDuo_LP11 3
+    400040: chainDuo_LP12
+    400042: chainDuo_LP12 1
+    400044: chainDuo_LP12 2
+    400046: chainDuo_LP12 3
+    400048: chainDuo_LP13
+    400050: chainDuo_LP13 1
+    400052: chainDuo_LP13 2
+    400054: chainDuo_LP13 3
+    400056: chainDuo_LP14
+    400058: chainDuo_LP14 1
+    400060: chainDuo_LP14 2
+    400062: chainDuo_LP14 3
+    400064: chainDuo_LP15
+    400066: chainDuo_LP15 1
+    400068: chainDuo_LP15 2
+    400070: chainDuo_LP15 3
+    400072: chainDuo_LP2
+    400074: chainDuo_LP2 1
+    400076: chainDuo_LP2 2
+    400078: chainDuo_LP2 3
+    400080: chainDuo_LP3
+    400082: chainDuo_LP3 1
+    400084: chainDuo_LP3 2
+    400086: chainDuo_LP3 3
+    400088: chainDuo_LP4
+    400090: chainDuo_LP4 1
+    400092: chainDuo_LP4 2
+    400094: chainDuo_LP4 3
+    400096: chainDuo_LP5
+    400098: chainDuo_LP5 1
+    400100: chainDuo_LP5 2
+    400102: chainDuo_LP5 3
+    400104: chainDuo_LP6
+    400106: chainDuo_LP6 1
+    400108: chainDuo_LP6 2
+    400110: chainDuo_LP6 3
+    400112: chainDuo_LP7
+    400114: chainDuo_LP7 1
+    400116: chainDuo_LP7 2
+    400118: chainDuo_LP7 3
+    400120: chainDuo_LP8
+    400122: chainDuo_LP8 1
+    400124: chainDuo_LP8 2
+    400126: chainDuo_LP8 3
+    400128: chainDuo_LP9
+    400130: chainDuo_LP9 1
+    400132: chainDuo_LP9 2
+    400134: chainDuo_LP9 3
+    400136: glassShard1:pCube1
+    400138: glassShard2:pCube1
+    400140: glassShard3:pCube1
+    400142: glassShards
+    400144: glassShards1
+    400146: glassShards2
+    400148: handle1
+    400150: handle2
+    400152: handle3
+    400154: handle4
+    400156: nurbsToPoly1
+    400158: nurbsToPoly1 1
+    400160: nurbsToPoly1 2
+    400162: nurbsToPoly10
+    400164: nurbsToPoly10 1
+    400166: nurbsToPoly10 2
+    400168: nurbsToPoly11
+    400170: nurbsToPoly11 1
+    400172: nurbsToPoly11 2
+    400174: nurbsToPoly12
+    400176: nurbsToPoly12 1
+    400178: nurbsToPoly12 2
+    400180: nurbsToPoly2
+    400182: nurbsToPoly2 1
+    400184: nurbsToPoly2 2
+    400186: nurbsToPoly3
+    400188: nurbsToPoly3 1
+    400190: nurbsToPoly3 2
+    400192: nurbsToPoly4
+    400194: nurbsToPoly4 1
+    400196: nurbsToPoly4 2
+    400198: nurbsToPoly5
+    400200: nurbsToPoly5 1
+    400202: nurbsToPoly5 2
+    400204: nurbsToPoly6
+    400206: nurbsToPoly6 1
+    400208: nurbsToPoly6 2
+    400210: nurbsToPoly7
+    400212: nurbsToPoly7 1
+    400214: nurbsToPoly7 2
+    400216: nurbsToPoly8
+    400218: nurbsToPoly8 1
+    400220: nurbsToPoly8 2
+    400222: nurbsToPoly9
+    400224: nurbsToPoly9 1
+    400226: nurbsToPoly9 2
+    400228: pCube1
+    400230: pCube1 1
+    400232: pCube1 2
+    400234: pCube10
+    400236: pCube10 1
+    400238: pCube11
+    400240: pCube11 1
+    400242: pCube12
+    400244: pCube12 1
+    400246: pCube2
+    400248: pCube2 1
+    400250: pCube2 2
+    400252: pCube3
+    400254: pCube3 1
+    400256: pCube3 2
+    400258: pCube4
+    400260: pCube4 1
+    400262: pCube4 2
+    400264: pCube5
+    400266: pCube5 1
+    400268: pCube5 2
+    400270: pCube6
+    400272: pCube6 1
+    400274: pCube6 2
+    400276: pCube7
+    400278: pCube7 1
+    400280: pCube7 2
+    400282: pCube8
+    400284: pCube8 1
+    400286: pCube8 2
+    400288: pCube9
+    400290: pCube9 1
+    400292: pCube9 2
+    400294: platform
+    400296: pTorus32
+    400298: pTorus32 1
+    400300: pTorus32 10
+    400302: pTorus32 11
+    400304: pTorus32 12
+    400306: pTorus32 13
+    400308: pTorus32 14
+    400310: pTorus32 15
+    400312: pTorus32 16
+    400314: pTorus32 17
+    400316: pTorus32 18
+    400318: pTorus32 19
+    400320: pTorus32 2
+    400322: pTorus32 20
+    400324: pTorus32 21
+    400326: pTorus32 22
+    400328: pTorus32 23
+    400330: pTorus32 24
+    400332: pTorus32 25
+    400334: pTorus32 26
+    400336: pTorus32 27
+    400338: pTorus32 28
+    400340: pTorus32 29
+    400342: pTorus32 3
+    400344: pTorus32 30
+    400346: pTorus32 31
+    400348: pTorus32 32
+    400350: pTorus32 33
+    400352: pTorus32 34
+    400354: pTorus32 35
+    400356: pTorus32 36
+    400358: pTorus32 37
+    400360: pTorus32 38
+    400362: pTorus32 39
+    400364: pTorus32 4
+    400366: pTorus32 40
+    400368: pTorus32 41
+    400370: pTorus32 42
+    400372: pTorus32 43
+    400374: pTorus32 44
+    400376: pTorus32 45
+    400378: pTorus32 46
+    400380: pTorus32 47
+    400382: pTorus32 48
+    400384: pTorus32 49
+    400386: pTorus32 5
+    400388: pTorus32 50
+    400390: pTorus32 51
+    400392: pTorus32 52
+    400394: pTorus32 53
+    400396: pTorus32 54
+    400398: pTorus32 55
+    400400: pTorus32 56
+    400402: pTorus32 57
+    400404: pTorus32 58
+    400406: pTorus32 59
+    400408: pTorus32 6
+    400410: pTorus32 60
+    400412: pTorus32 61
+    400414: pTorus32 62
+    400416: pTorus32 63
+    400418: pTorus32 7
+    400420: pTorus32 8
+    400422: pTorus32 9
+    400424: pTorus33
+    400426: pTorus33 1
+    400428: pTorus33 10
+    400430: pTorus33 11
+    400432: pTorus33 12
+    400434: pTorus33 13
+    400436: pTorus33 14
+    400438: pTorus33 15
+    400440: pTorus33 16
+    400442: pTorus33 17
+    400444: pTorus33 18
+    400446: pTorus33 19
+    400448: pTorus33 2
+    400450: pTorus33 20
+    400452: pTorus33 21
+    400454: pTorus33 22
+    400456: pTorus33 23
+    400458: pTorus33 24
+    400460: pTorus33 25
+    400462: pTorus33 26
+    400464: pTorus33 27
+    400466: pTorus33 28
+    400468: pTorus33 29
+    400470: pTorus33 3
+    400472: pTorus33 30
+    400474: pTorus33 31
+    400476: pTorus33 32
+    400478: pTorus33 33
+    400480: pTorus33 34
+    400482: pTorus33 35
+    400484: pTorus33 36
+    400486: pTorus33 37
+    400488: pTorus33 38
+    400490: pTorus33 39
+    400492: pTorus33 4
+    400494: pTorus33 40
+    400496: pTorus33 41
+    400498: pTorus33 42
+    400500: pTorus33 43
+    400502: pTorus33 44
+    400504: pTorus33 45
+    400506: pTorus33 46
+    400508: pTorus33 47
+    400510: pTorus33 48
+    400512: pTorus33 49
+    400514: pTorus33 5
+    400516: pTorus33 50
+    400518: pTorus33 51
+    400520: pTorus33 52
+    400522: pTorus33 53
+    400524: pTorus33 54
+    400526: pTorus33 55
+    400528: pTorus33 56
+    400530: pTorus33 57
+    400532: pTorus33 58
+    400534: pTorus33 59
+    400536: pTorus33 6
+    400538: pTorus33 60
+    400540: pTorus33 61
+    400542: pTorus33 62
+    400544: pTorus33 63
+    400546: pTorus33 7
+    400548: pTorus33 8
+    400550: pTorus33 9
+    400552: //RootNode
+    2300000: glassShard1:pCube1
+    2300002: glassShard2:pCube1
+    2300004: glassShard3:pCube1
+    2300006: handle1
+    2300008: handle2
+    2300010: handle3
+    2300012: handle4
+    2300014: nurbsToPoly1
+    2300016: nurbsToPoly1 1
+    2300018: nurbsToPoly1 2
+    2300020: nurbsToPoly10
+    2300022: nurbsToPoly10 1
+    2300024: nurbsToPoly10 2
+    2300026: nurbsToPoly11
+    2300028: nurbsToPoly11 1
+    2300030: nurbsToPoly11 2
+    2300032: nurbsToPoly12
+    2300034: nurbsToPoly12 1
+    2300036: nurbsToPoly12 2
+    2300038: nurbsToPoly2
+    2300040: nurbsToPoly2 1
+    2300042: nurbsToPoly2 2
+    2300044: nurbsToPoly3
+    2300046: nurbsToPoly3 1
+    2300048: nurbsToPoly3 2
+    2300050: nurbsToPoly4
+    2300052: nurbsToPoly4 1
+    2300054: nurbsToPoly4 2
+    2300056: nurbsToPoly5
+    2300058: nurbsToPoly5 1
+    2300060: nurbsToPoly5 2
+    2300062: nurbsToPoly6
+    2300064: nurbsToPoly6 1
+    2300066: nurbsToPoly6 2
+    2300068: nurbsToPoly7
+    2300070: nurbsToPoly7 1
+    2300072: nurbsToPoly7 2
+    2300074: nurbsToPoly8
+    2300076: nurbsToPoly8 1
+    2300078: nurbsToPoly8 2
+    2300080: nurbsToPoly9
+    2300082: nurbsToPoly9 1
+    2300084: nurbsToPoly9 2
+    2300086: pCube1
+    2300088: pCube1 1
+    2300090: pCube1 2
+    2300092: pCube10
+    2300094: pCube10 1
+    2300096: pCube11
+    2300098: pCube11 1
+    2300100: pCube12
+    2300102: pCube12 1
+    2300104: pCube2
+    2300106: pCube2 1
+    2300108: pCube2 2
+    2300110: pCube3
+    2300112: pCube3 1
+    2300114: pCube3 2
+    2300116: pCube4
+    2300118: pCube4 1
+    2300120: pCube4 2
+    2300122: pCube5
+    2300124: pCube5 1
+    2300126: pCube5 2
+    2300128: pCube6
+    2300130: pCube6 1
+    2300132: pCube6 2
+    2300134: pCube7
+    2300136: pCube7 1
+    2300138: pCube7 2
+    2300140: pCube8
+    2300142: pCube8 1
+    2300144: pCube8 2
+    2300146: pCube9
+    2300148: pCube9 1
+    2300150: pCube9 2
+    2300152: platform
+    2300154: pTorus32
+    2300156: pTorus32 1
+    2300158: pTorus32 10
+    2300160: pTorus32 11
+    2300162: pTorus32 12
+    2300164: pTorus32 13
+    2300166: pTorus32 14
+    2300168: pTorus32 15
+    2300170: pTorus32 16
+    2300172: pTorus32 17
+    2300174: pTorus32 18
+    2300176: pTorus32 19
+    2300178: pTorus32 2
+    2300180: pTorus32 20
+    2300182: pTorus32 21
+    2300184: pTorus32 22
+    2300186: pTorus32 23
+    2300188: pTorus32 24
+    2300190: pTorus32 25
+    2300192: pTorus32 26
+    2300194: pTorus32 27
+    2300196: pTorus32 28
+    2300198: pTorus32 29
+    2300200: pTorus32 3
+    2300202: pTorus32 30
+    2300204: pTorus32 31
+    2300206: pTorus32 32
+    2300208: pTorus32 33
+    2300210: pTorus32 34
+    2300212: pTorus32 35
+    2300214: pTorus32 36
+    2300216: pTorus32 37
+    2300218: pTorus32 38
+    2300220: pTorus32 39
+    2300222: pTorus32 4
+    2300224: pTorus32 40
+    2300226: pTorus32 41
+    2300228: pTorus32 42
+    2300230: pTorus32 43
+    2300232: pTorus32 44
+    2300234: pTorus32 45
+    2300236: pTorus32 46
+    2300238: pTorus32 47
+    2300240: pTorus32 48
+    2300242: pTorus32 49
+    2300244: pTorus32 5
+    2300246: pTorus32 50
+    2300248: pTorus32 51
+    2300250: pTorus32 52
+    2300252: pTorus32 53
+    2300254: pTorus32 54
+    2300256: pTorus32 55
+    2300258: pTorus32 56
+    2300260: pTorus32 57
+    2300262: pTorus32 58
+    2300264: pTorus32 59
+    2300266: pTorus32 6
+    2300268: pTorus32 60
+    2300270: pTorus32 61
+    2300272: pTorus32 62
+    2300274: pTorus32 63
+    2300276: pTorus32 7
+    2300278: pTorus32 8
+    2300280: pTorus32 9
+    2300282: pTorus33
+    2300284: pTorus33 1
+    2300286: pTorus33 10
+    2300288: pTorus33 11
+    2300290: pTorus33 12
+    2300292: pTorus33 13
+    2300294: pTorus33 14
+    2300296: pTorus33 15
+    2300298: pTorus33 16
+    2300300: pTorus33 17
+    2300302: pTorus33 18
+    2300304: pTorus33 19
+    2300306: pTorus33 2
+    2300308: pTorus33 20
+    2300310: pTorus33 21
+    2300312: pTorus33 22
+    2300314: pTorus33 23
+    2300316: pTorus33 24
+    2300318: pTorus33 25
+    2300320: pTorus33 26
+    2300322: pTorus33 27
+    2300324: pTorus33 28
+    2300326: pTorus33 29
+    2300328: pTorus33 3
+    2300330: pTorus33 30
+    2300332: pTorus33 31
+    2300334: pTorus33 32
+    2300336: pTorus33 33
+    2300338: pTorus33 34
+    2300340: pTorus33 35
+    2300342: pTorus33 36
+    2300344: pTorus33 37
+    2300346: pTorus33 38
+    2300348: pTorus33 39
+    2300350: pTorus33 4
+    2300352: pTorus33 40
+    2300354: pTorus33 41
+    2300356: pTorus33 42
+    2300358: pTorus33 43
+    2300360: pTorus33 44
+    2300362: pTorus33 45
+    2300364: pTorus33 46
+    2300366: pTorus33 47
+    2300368: pTorus33 48
+    2300370: pTorus33 49
+    2300372: pTorus33 5
+    2300374: pTorus33 50
+    2300376: pTorus33 51
+    2300378: pTorus33 52
+    2300380: pTorus33 53
+    2300382: pTorus33 54
+    2300384: pTorus33 55
+    2300386: pTorus33 56
+    2300388: pTorus33 57
+    2300390: pTorus33 58
+    2300392: pTorus33 59
+    2300394: pTorus33 6
+    2300396: pTorus33 60
+    2300398: pTorus33 61
+    2300400: pTorus33 62
+    2300402: pTorus33 63
+    2300404: pTorus33 7
+    2300406: pTorus33 8
+    2300408: pTorus33 9
+    3300000: glassShard1:pCube1
+    3300002: glassShard2:pCube1
+    3300004: glassShard3:pCube1
+    3300006: handle1
+    3300008: handle2
+    3300010: handle3
+    3300012: handle4
+    3300014: nurbsToPoly1
+    3300016: nurbsToPoly1 1
+    3300018: nurbsToPoly1 2
+    3300020: nurbsToPoly10
+    3300022: nurbsToPoly10 1
+    3300024: nurbsToPoly10 2
+    3300026: nurbsToPoly11
+    3300028: nurbsToPoly11 1
+    3300030: nurbsToPoly11 2
+    3300032: nurbsToPoly12
+    3300034: nurbsToPoly12 1
+    3300036: nurbsToPoly12 2
+    3300038: nurbsToPoly2
+    3300040: nurbsToPoly2 1
+    3300042: nurbsToPoly2 2
+    3300044: nurbsToPoly3
+    3300046: nurbsToPoly3 1
+    3300048: nurbsToPoly3 2
+    3300050: nurbsToPoly4
+    3300052: nurbsToPoly4 1
+    3300054: nurbsToPoly4 2
+    3300056: nurbsToPoly5
+    3300058: nurbsToPoly5 1
+    3300060: nurbsToPoly5 2
+    3300062: nurbsToPoly6
+    3300064: nurbsToPoly6 1
+    3300066: nurbsToPoly6 2
+    3300068: nurbsToPoly7
+    3300070: nurbsToPoly7 1
+    3300072: nurbsToPoly7 2
+    3300074: nurbsToPoly8
+    3300076: nurbsToPoly8 1
+    3300078: nurbsToPoly8 2
+    3300080: nurbsToPoly9
+    3300082: nurbsToPoly9 1
+    3300084: nurbsToPoly9 2
+    3300086: pCube1
+    3300088: pCube1 1
+    3300090: pCube1 2
+    3300092: pCube10
+    3300094: pCube10 1
+    3300096: pCube11
+    3300098: pCube11 1
+    3300100: pCube12
+    3300102: pCube12 1
+    3300104: pCube2
+    3300106: pCube2 1
+    3300108: pCube2 2
+    3300110: pCube3
+    3300112: pCube3 1
+    3300114: pCube3 2
+    3300116: pCube4
+    3300118: pCube4 1
+    3300120: pCube4 2
+    3300122: pCube5
+    3300124: pCube5 1
+    3300126: pCube5 2
+    3300128: pCube6
+    3300130: pCube6 1
+    3300132: pCube6 2
+    3300134: pCube7
+    3300136: pCube7 1
+    3300138: pCube7 2
+    3300140: pCube8
+    3300142: pCube8 1
+    3300144: pCube8 2
+    3300146: pCube9
+    3300148: pCube9 1
+    3300150: pCube9 2
+    3300152: platform
+    3300154: pTorus32
+    3300156: pTorus32 1
+    3300158: pTorus32 10
+    3300160: pTorus32 11
+    3300162: pTorus32 12
+    3300164: pTorus32 13
+    3300166: pTorus32 14
+    3300168: pTorus32 15
+    3300170: pTorus32 16
+    3300172: pTorus32 17
+    3300174: pTorus32 18
+    3300176: pTorus32 19
+    3300178: pTorus32 2
+    3300180: pTorus32 20
+    3300182: pTorus32 21
+    3300184: pTorus32 22
+    3300186: pTorus32 23
+    3300188: pTorus32 24
+    3300190: pTorus32 25
+    3300192: pTorus32 26
+    3300194: pTorus32 27
+    3300196: pTorus32 28
+    3300198: pTorus32 29
+    3300200: pTorus32 3
+    3300202: pTorus32 30
+    3300204: pTorus32 31
+    3300206: pTorus32 32
+    3300208: pTorus32 33
+    3300210: pTorus32 34
+    3300212: pTorus32 35
+    3300214: pTorus32 36
+    3300216: pTorus32 37
+    3300218: pTorus32 38
+    3300220: pTorus32 39
+    3300222: pTorus32 4
+    3300224: pTorus32 40
+    3300226: pTorus32 41
+    3300228: pTorus32 42
+    3300230: pTorus32 43
+    3300232: pTorus32 44
+    3300234: pTorus32 45
+    3300236: pTorus32 46
+    3300238: pTorus32 47
+    3300240: pTorus32 48
+    3300242: pTorus32 49
+    3300244: pTorus32 5
+    3300246: pTorus32 50
+    3300248: pTorus32 51
+    3300250: pTorus32 52
+    3300252: pTorus32 53
+    3300254: pTorus32 54
+    3300256: pTorus32 55
+    3300258: pTorus32 56
+    3300260: pTorus32 57
+    3300262: pTorus32 58
+    3300264: pTorus32 59
+    3300266: pTorus32 6
+    3300268: pTorus32 60
+    3300270: pTorus32 61
+    3300272: pTorus32 62
+    3300274: pTorus32 63
+    3300276: pTorus32 7
+    3300278: pTorus32 8
+    3300280: pTorus32 9
+    3300282: pTorus33
+    3300284: pTorus33 1
+    3300286: pTorus33 10
+    3300288: pTorus33 11
+    3300290: pTorus33 12
+    3300292: pTorus33 13
+    3300294: pTorus33 14
+    3300296: pTorus33 15
+    3300298: pTorus33 16
+    3300300: pTorus33 17
+    3300302: pTorus33 18
+    3300304: pTorus33 19
+    3300306: pTorus33 2
+    3300308: pTorus33 20
+    3300310: pTorus33 21
+    3300312: pTorus33 22
+    3300314: pTorus33 23
+    3300316: pTorus33 24
+    3300318: pTorus33 25
+    3300320: pTorus33 26
+    3300322: pTorus33 27
+    3300324: pTorus33 28
+    3300326: pTorus33 29
+    3300328: pTorus33 3
+    3300330: pTorus33 30
+    3300332: pTorus33 31
+    3300334: pTorus33 32
+    3300336: pTorus33 33
+    3300338: pTorus33 34
+    3300340: pTorus33 35
+    3300342: pTorus33 36
+    3300344: pTorus33 37
+    3300346: pTorus33 38
+    3300348: pTorus33 39
+    3300350: pTorus33 4
+    3300352: pTorus33 40
+    3300354: pTorus33 41
+    3300356: pTorus33 42
+    3300358: pTorus33 43
+    3300360: pTorus33 44
+    3300362: pTorus33 45
+    3300364: pTorus33 46
+    3300366: pTorus33 47
+    3300368: pTorus33 48
+    3300370: pTorus33 49
+    3300372: pTorus33 5
+    3300374: pTorus33 50
+    3300376: pTorus33 51
+    3300378: pTorus33 52
+    3300380: pTorus33 53
+    3300382: pTorus33 54
+    3300384: pTorus33 55
+    3300386: pTorus33 56
+    3300388: pTorus33 57
+    3300390: pTorus33 58
+    3300392: pTorus33 59
+    3300394: pTorus33 6
+    3300396: pTorus33 60
+    3300398: pTorus33 61
+    3300400: pTorus33 62
+    3300402: pTorus33 63
+    3300404: pTorus33 7
+    3300406: pTorus33 8
+    3300408: pTorus33 9
+    4300000: pTorus32
+    4300002: pTorus33
+    4300004: pTorus32
+    4300006: pTorus33
+    4300008: pTorus32
+    4300010: pTorus33
+    4300012: pTorus32
+    4300014: pTorus33
+    4300016: pTorus32
+    4300018: pTorus33
+    4300020: pTorus32
+    4300022: pTorus33
+    4300024: pTorus32
+    4300026: pTorus33
+    4300028: pTorus32
+    4300030: pTorus33
+    4300032: pTorus32
+    4300034: pTorus33
+    4300036: pTorus32
+    4300038: pTorus33
+    4300040: pTorus32
+    4300042: pTorus33
+    4300044: pTorus32
+    4300046: pTorus33
+    4300048: pTorus32
+    4300050: pTorus33
+    4300052: pTorus32
+    4300054: pTorus33
+    4300056: pTorus32
+    4300058: pTorus33
+    4300060: pTorus32
+    4300062: pTorus33
+    4300064: pTorus32
+    4300066: pTorus33
+    4300068: pTorus32
+    4300070: pTorus33
+    4300072: pTorus32
+    4300074: pTorus33
+    4300076: pTorus32
+    4300078: pTorus33
+    4300080: pTorus32
+    4300082: pTorus33
+    4300084: pTorus32
+    4300086: pTorus33
+    4300088: pTorus32
+    4300090: pTorus33
+    4300092: pTorus32
+    4300094: pTorus33
+    4300096: pTorus32
+    4300098: pTorus33
+    4300100: pTorus32
+    4300102: pTorus33
+    4300104: pTorus32
+    4300106: pTorus33
+    4300108: pTorus32
+    4300110: pTorus33
+    4300112: pTorus32
+    4300114: pTorus33
+    4300116: pTorus32
+    4300118: pTorus33
+    4300120: pTorus32
+    4300122: pTorus33
+    4300124: pTorus32
+    4300126: pTorus33
+    4300128: pTorus32
+    4300130: pTorus33
+    4300132: pTorus32
+    4300134: pTorus33
+    4300136: pTorus32
+    4300138: pTorus33
+    4300140: pTorus32
+    4300142: pTorus33
+    4300144: pTorus32
+    4300146: pTorus33
+    4300148: pTorus32
+    4300150: pTorus33
+    4300152: pTorus32
+    4300154: pTorus33
+    4300156: pTorus32
+    4300158: pTorus33
+    4300160: pTorus32
+    4300162: pTorus33
+    4300164: pTorus32
+    4300166: pTorus33
+    4300168: pTorus32
+    4300170: pTorus33
+    4300172: pTorus32
+    4300174: pTorus33
+    4300176: pTorus32
+    4300178: pTorus33
+    4300180: pTorus32
+    4300182: pTorus33
+    4300184: pTorus32
+    4300186: pTorus33
+    4300188: pTorus32
+    4300190: pTorus33
+    4300192: pTorus32
+    4300194: pTorus33
+    4300196: pTorus32
+    4300198: pTorus33
+    4300200: pTorus32
+    4300202: pTorus33
+    4300204: pTorus32
+    4300206: pTorus33
+    4300208: pTorus32
+    4300210: pTorus33
+    4300212: pTorus32
+    4300214: pTorus33
+    4300216: pTorus32
+    4300218: pTorus33
+    4300220: pTorus32
+    4300222: pTorus33
+    4300224: pTorus32
+    4300226: pTorus33
+    4300228: pTorus32
+    4300230: pTorus33
+    4300232: pTorus32
+    4300234: pTorus33
+    4300236: pTorus32
+    4300238: pTorus33
+    4300240: pTorus32
+    4300242: pTorus33
+    4300244: pTorus32
+    4300246: pTorus33
+    4300248: pTorus32
+    4300250: pTorus33
+    4300252: pTorus32
+    4300254: pTorus33
+    4300256: handle1
+    4300258: handle4
+    4300260: handle3
+    4300262: handle2
+    4300264: glassShard1:pCube1
+    4300266: nurbsToPoly8
+    4300268: glassShard2:pCube1
+    4300270: nurbsToPoly9
+    4300272: glassShard3:pCube1
+    4300274: nurbsToPoly4
+    4300276: pCube1
+    4300278: nurbsToPoly1
+    4300280: pCube2
+    4300282: nurbsToPoly5
+    4300284: pCube3
+    4300286: nurbsToPoly3
+    4300288: pCube4
+    4300290: nurbsToPoly7
+    4300292: pCube5
+    4300294: nurbsToPoly10
+    4300296: pCube6
+    4300298: nurbsToPoly2
+    4300300: pCube7
+    4300302: nurbsToPoly6
+    4300304: pCube8
+    4300306: nurbsToPoly11
+    4300308: pCube9
+    4300310: nurbsToPoly12
+    4300312: pCube1
+    4300314: nurbsToPoly8
+    4300316: pCube2
+    4300318: nurbsToPoly9
+    4300320: pCube3
+    4300322: nurbsToPoly4
+    4300324: pCube4
+    4300326: nurbsToPoly1
+    4300328: pCube5
+    4300330: nurbsToPoly5
+    4300332: pCube6
+    4300334: nurbsToPoly3
+    4300336: pCube7
+    4300338: nurbsToPoly7
+    4300340: pCube8
+    4300342: nurbsToPoly10
+    4300344: pCube9
+    4300346: nurbsToPoly2
+    4300348: pCube10
+    4300350: nurbsToPoly6
+    4300352: pCube11
+    4300354: nurbsToPoly11
+    4300356: pCube12
+    4300358: nurbsToPoly12
+    4300360: pCube1
+    4300362: nurbsToPoly8
+    4300364: pCube2
+    4300366: nurbsToPoly9
+    4300368: pCube3
+    4300370: nurbsToPoly4
+    4300372: pCube4
+    4300374: nurbsToPoly1
+    4300376: pCube5
+    4300378: nurbsToPoly5
+    4300380: pCube6
+    4300382: nurbsToPoly3
+    4300384: pCube7
+    4300386: nurbsToPoly7
+    4300388: pCube8
+    4300390: nurbsToPoly10
+    4300392: pCube9
+    4300394: nurbsToPoly2
+    4300396: pCube10
+    4300398: nurbsToPoly6
+    4300400: pCube11
+    4300402: nurbsToPoly11
+    4300404: pCube12
+    4300406: nurbsToPoly12
+    4300408: platform
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: da2fde5365bc346d3be71bb3ba99900e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: woodPlatform
+    second: {fileID: 2100000, guid: c66b45c36dc2248959201726beb239f7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
